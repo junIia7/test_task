@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kasat\\Desktop\\test_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\userapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\userapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\dto\\changelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\dto\\changelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\dto\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\dto\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|c:\\users\\kasat\\desktop\\test_task\\userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A217A9-B9D5-4005-B9D3-B679077F8EEE}|UserApi\\UserApi.csproj|solutionrelative:userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApi.http",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\UserApi.http",
+              "RelativeDocumentMoniker": "UserApi\\UserApi.http",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\UserApi.http",
+              "RelativeToolTip": "UserApi\\UserApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-21T18:38:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Program.cs",
+              "RelativeDocumentMoniker": "UserApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Program.cs",
+              "RelativeToolTip": "UserApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\Dto\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\CreateUserDto.cs",
+              "RelativeToolTip": "UserApi\\Models\\Dto\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:18.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\Dto\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\UpdateProfileDto.cs",
+              "RelativeToolTip": "UserApi\\Models\\Dto\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:17.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\Dto\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\UserResponseDto.cs",
+              "RelativeToolTip": "UserApi\\Models\\Dto\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:16.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\User.cs",
+              "RelativeToolTip": "UserApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:14.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\ChangeLoginDto.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\Dto\\ChangeLoginDto.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\ChangeLoginDto.cs",
+              "RelativeToolTip": "UserApi\\Models\\Dto\\ChangeLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:21:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "UserApi\\Models\\Dto\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Models\\Dto\\ChangePasswordDto.cs",
+              "RelativeToolTip": "UserApi\\Models\\Dto\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAABAkiRJkiQnwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:20:16.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kasat\\Desktop\\test_task\\UserApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:10:43.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
